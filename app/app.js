@@ -1,5 +1,5 @@
-require('dotenv').config();
-const token = process.env.TOKEN; // your token value
+// require('dotenv').config();
+// const token = process.env.TOKEN; // your token value
 
 import express from 'express';
 import { OpenAI } from 'openai';
